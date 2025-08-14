@@ -35,11 +35,11 @@ A URL sai em About → Website.
 
 ## 🧠 O que eu aprendi
 
-Organização de um projeto estático pronto para GitHub Pages (sem bundlers).
-Estado e regras de jogo com JavaScript puro (bloqueio de cliques, dupla seleção, comparação, reset).
-Persistência simples com localStorage (best time).
-Acessibilidade básica e responsividade.
-Escrita de README orientado a portfólio.
+- Organização de um projeto estático pronto para GitHub Pages (sem bundlers).
+- Estado e regras de jogo com JavaScript puro (bloqueio de cliques, dupla seleção, comparação, reset).
+- Persistência simples com localStorage (best time).
+- Acessibilidade básica e responsividade.
+- Escrita de README orientado a portfólio.
 
 ## 📌 Especificações Técnicas
 
@@ -48,15 +48,8 @@ O projeto foi pensado para ser simples, responsivo e pronto para publicação no
 
 Tecnologias utilizadas:
 
-HTML5
-CSS3
-JavaScript (ES6+)
+- HTML5
+- CSS3
+- JavaScript (ES6+)
 
-## O que aprendi:
-
-Manipulação do DOM: criação e atualização dinâmica dos elementos de jogo.
-Controle de Estado no JavaScript puro: armazenamento e atualização de variáveis de jogo como jogadas, cartas viradas e pares encontrados.
-Persistência Local: uso do localStorage para guardar e exibir o melhor tempo alcançado pelo jogador.
-Lógica de Jogo: embaralhamento aleatório (algoritmo de Fisher–Yates), verificação de pares e bloqueio temporário de cliques.
-Responsividade e Estilo: uso de CSS moderno (flex, grid, gradients) para um visual agradável e adaptado a diferentes telas.
 
